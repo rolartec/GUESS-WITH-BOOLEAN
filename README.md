@@ -69,3 +69,16 @@ public class BooleanFinal
 }//End main
 
 }//End class
+
+
+Hi Reina,
+
+if (computerNumber == UserNumber)
+{    
+GameWon = true;
+}
+
+Can be re-written as 
+    GameWon = computerNumber == UserNumber;
+
+Please ask me in class to explain.  Please see if you can change the statement for ResultHigh and ResultLow accordingly.
